@@ -6,7 +6,7 @@ namespace GitVsTest1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("This is the first branch push");
         }
     }
 }
